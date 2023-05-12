@@ -85,3 +85,9 @@
 | :---------------- | --------------- |
 |#兑换码使用 兑换码 或者 #cdk-u 兑换码|将兑换码使用掉，兑换内容将通过游戏内邮件系统发送到当前用户的uid|
 |#兑换码|获取直播兑换码，目前只支持国服|
+
+|                           Nickname                            | Contribution         |
+| :-----------------------------------------------------------: | -------------------- |
+| [GardenHamster](https://github.com/GardenHamster/GenshinPray) | 模拟抽卡背景素材来源 |
+|    [西风驿站](https://bbs.mihoyo.com/ys/collection/839181)    | 角色攻略图来源       |
+|  [米游社友人 A](https://bbs.mihoyo.com/ys/collection/428421)  | 角色突破素材图来源   |
